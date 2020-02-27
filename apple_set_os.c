@@ -9,7 +9,7 @@
 #include <efierr.h>
 
 #define APPLE_SET_OS_VENDOR  "Apple Inc."
-#define APPLE_SET_OS_VERSION "Mac OS X 10.9"
+#define APPLE_SET_OS_VERSION "Mac OS X 10.15"
 
 static EFI_GUID APPLE_SET_OS_GUID = { 0xc5c5da95, 0x7d5c, 0x45e6, { 0xb2, 0xf1, 0x3f, 0xd5, 0x2b, 0xb1, 0x00, 0x77 }};
 
